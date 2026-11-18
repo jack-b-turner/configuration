@@ -1,0 +1,8 @@
+profile docked {
+	output eDP-1 disable
+	output "Acer Technologies G276HL LW9AA0078534" enable
+}
+
+profile undocked {
+	output eDP-1 enable
+}

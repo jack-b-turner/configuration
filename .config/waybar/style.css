@@ -1,0 +1,15 @@
+* {
+	font-family: "JetBrainsMono Nerd Font Propo";
+}
+window#waybar {
+	background-color: #242323;
+}
+
+#workspaces button.active {
+	background-color: #945757;
+	border-radius: 0;
+}
+#workspaces button {
+	background-color: #916767;
+	border-radius: 0;
+}
