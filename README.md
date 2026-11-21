@@ -8,3 +8,9 @@ Configurations Provided:
 - Kanshi
 - Foot
 - zsh
+
+### Features I would like to showcase in the future:
+- Automatic misk mounting
+- hyprmoncfg for managing displays
+- Wofi menu shell scripts
+
