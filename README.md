@@ -13,4 +13,4 @@ Configurations Provided:
 - Automatic disk mounting
 - hyprmoncfg for managing displays
 - Wofi menu shell scripts
-
+- NixOS and home-manager migration
