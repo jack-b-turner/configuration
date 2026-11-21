@@ -10,7 +10,7 @@ Configurations Provided:
 - zsh
 
 ### Features I would like to showcase in the future:
-- Automatic misk mounting
+- Automatic disk mounting
 - hyprmoncfg for managing displays
 - Wofi menu shell scripts
 
